@@ -1,2 +1,1 @@
-# dates
-Fluent PHP Dates
+# Fluent PHP Dates
