@@ -78,8 +78,8 @@ class Date extends Carbon
 
     /**
      * Parses and determines all Date Strings in the Format
-     * of YYYY|**|**,  where `|` represents a separator 
-     * and `*` represents a decimal.
+     * of YYYY|**|**,  where `|` represents a separator of
+     * /, - or whitespace and `*` represents a decimal.
      * 
      * @param  string $date 
      * 
